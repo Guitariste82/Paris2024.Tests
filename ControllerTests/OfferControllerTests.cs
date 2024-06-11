@@ -24,7 +24,7 @@ namespace Paris2024.Tests.Controler
 
         public OfferControllerTests()
         {
-            // Dependency
+            // Dependancy
             _logger = A.Fake<ILogger<HomeController>>();
             _offerRepository = A.Fake<IOfferRepository>();
 
