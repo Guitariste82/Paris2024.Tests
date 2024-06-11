@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Paris2024.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f684d8caa422981c9e8c89cbb20977059dcc162")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee10142a4648284d8a32f9ff7d666ca42fafc11")]
 [assembly: System.Reflection.AssemblyProductAttribute("Paris2024.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Paris2024.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
